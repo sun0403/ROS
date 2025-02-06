@@ -1,0 +1,4 @@
+geometry_msgs/Point position
+geometry_msgs/Quaternion orientation
+float32 size
+string name
